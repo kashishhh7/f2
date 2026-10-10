@@ -104,6 +104,3 @@ Through this project, I gained practical experience in:
 - Building user-friendly navigation with bookmarks
 - Presenting analytical insights through effective data visualization
 
----
-
-#LINKEDIN : https://www.linkedin.com/in/nithinchandra07?utm_source=share_via&utm_content=profile&utm_medium=member_android
